@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\controllers",
+    "\\models",
+    "\\views",
+    "\\views\\users"
+  ],
+  "SelectedNode": "\\models\\ResetPasswordForm.php",
+  "PreviewInSolutionExplorer": false
+}
